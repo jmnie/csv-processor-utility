@@ -39,3 +39,14 @@ Front-end used React (create-react-app), which user can upload file and get resu
 1. `cd frontend`
 2. `npm install`
 3. `npm start`
+
+### Sample Results (`/test-data-file/values.csv` and `/test-data-file/values_2.csv`)
+
+
+1. `/test-data-file/values.csv` Result screenshot:
+   
+![`/test-data-file/values.csv` Result screenshot](/test-data-file/res_1.png)
+
+1. `/test-data-file/values_2.csv` Result screenshot:
+   
+![`/test-data-file/values_2.csv` Result screenshot](/test-data-file/res_2.png)
